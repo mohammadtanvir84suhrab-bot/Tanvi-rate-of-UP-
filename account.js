@@ -1,10 +1,10 @@
 // =======================================================
-// WEBSITE NAME (Tanvir top up )
+// WEBSITE NAME (NICKNAME)
 // =======================================================
 var website_name = "YASIN";
 
 // =======================================================
-// TELEGRAM CHANNEL t.me/Tanvirtop
+// TELEGRAM CHANNEL LINK
 // =======================================================
 var telegram_channel_link = "telegram channel link";
 
@@ -14,7 +14,7 @@ var telegram_channel_link = "telegram channel link";
 var telegram_group_link = "telegram group link";
 
 // =======================================================
-// YOUTUBE CHANNEL LINK https://youtube.com/@tanvir.op.vip99?si=UJ_MvkU4uDau26ol
+// YOUTUBE CHANNEL LINK
 // =======================================================
 var youtube_channel_link = "YouTube channel link";
 
